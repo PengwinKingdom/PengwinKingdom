@@ -30,8 +30,4 @@
 </p>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pengwinkingdom&show_icons=true&locale=en&layout=compact" alt="pengwinkingdom" /></p>
