@@ -7,7 +7,9 @@
 
 ###
 
-<h3 align="left"> About Me ⊹₊⟡⋆</h3>
+<h3 align="left"> About Me ⊹₊⟡⋆⊹₊⟡⋆</h3>
+
+<img align="right" src="https://media1.tenor.com/m/zqJ8F-TRr_kAAAAC/dragons-toothless-dancing-meme.gif" width="450"/>
 
 <p align="left">💻 Software engineer in the making
   <br>🎯 Always eager to learn and improve
@@ -16,7 +18,7 @@
 
 ###
 
-<h3 align="left">Languages and tools ⊹₊⟡⋆</h3>
+<h3 align="left">Languages and tools ⊹₊⟡⋆⊹₊⟡⋆</h3>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
@@ -30,4 +32,5 @@
 </p>
 
 ###
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pengwinkingdom&show_icons=true&locale=en&layout=compact" alt="pengwinkingdom" /></p>
