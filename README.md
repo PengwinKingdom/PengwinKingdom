@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="center">I'm a software engineer, always learning new things</h4>
+<h4 align="center">The greater the obstacle, the more glory in overcoming it</h4>
 
 ###
 
