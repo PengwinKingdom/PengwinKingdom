@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="center">The greater the obstacle, the more glory in overcoming it</h4>
+<h3 align="center">The greater the obstacle, the more glory in overcoming it ᕙ(  •̀ ᗜ •́  )ᕗ</h3>
 
 ###
 
