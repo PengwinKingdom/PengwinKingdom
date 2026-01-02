@@ -7,14 +7,16 @@
 
 ###
 
-<h3 align="left"> About Me ⊹₊⟡⋆⊹₊⟡⋆</h3>
-
-<img align="right" src="https://media1.tenor.com/m/zqJ8F-TRr_kAAAAC/dragons-toothless-dancing-meme.gif" width="450"/>
-
-<p align="left">💻 Software engineer in the making
-  <br>🎯 Always eager to learn and improve
-  <br>🌎 English & Spanish speaker
-  <br>🤖 Currently learning about machine learning</p>
+<div align="left">
+  <img src="https://media1.tenor.com/m/zqJ8F-TRr_kAAAAC/dragons-toothless-dancing-meme.gif" width="240" align="right"/>
+  <h3>About Me ⊹₊⟡⋆⊹₊⟡⋆</h3>
+  <p>
+    💻 Software engineer in the making<br>
+    🎯 Always eager to learn and improve<br>
+    🌎 English & Spanish speaker<br>
+    🤖 Currently learning about machine learning
+  </p>
+</div>
 
 ###
 
@@ -31,6 +33,4 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
 </p>
 
-###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pengwinkingdom&show_icons=true&locale=en&layout=compact" alt="pengwinkingdom" /></p>
